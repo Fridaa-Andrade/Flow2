@@ -11,7 +11,7 @@ Para realizar el flow 1 sera necesario lo siguiente:
 
 - [Ubuntu20.04 ](https://releases.ubuntu.com/20.04/)
 - [NodeJS](https://nodejs.org/es/)
-- [NPM] (https://www.npmjs.com/)
+- [NPM](https://www.npmjs.com/)
 - [NodeRed](https://nodered.org/docs/getting-started/local)
 
 ## Material de Referencia
